@@ -33,7 +33,7 @@
     grid-template-rows:  54px 54px 54px 54px ;
     
 }
-.btn {
+.btn_oper, .btn_back, #big {
     width: 50px;
     height: 50px;
     font-size: 20px;
@@ -42,7 +42,7 @@
     border-radius : 10px;
 }
 
-.btn_nr {
+.btn_nr, .btn_dot, .btn_ce {
     width: 50px;
     height: 50px;
     font-size: 20px;
